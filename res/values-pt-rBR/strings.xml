@@ -1301,7 +1301,7 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="Animal_Tamer">Domador de Animais</string>
     <string name="Crocodile_Hunter">Caçador de Crocodilos</string>
     <string name="Get_A_Pet_To_Level_X_">Leve um Mascote ao Nível %d.</string>
-    <string name="plasma_boost_info">"Você ganhará três vezes os plasmas de todas as fontes NO JOGO enquanto o impulso está ativo! Isso inclui ganhos em arena e torneio! NÃO funciona em compras de plasma, giros ou recompensas especiais."</string>
+    <string name="plasma_boost_info">"Você ganhará três vezes as plasmas de todas as fontes NO JOGO enquanto o impulso está ativo! Isso inclui ganhos em arena e torneio! NÃO funciona em compras de plasma, giros ou recompensas especiais."</string>
     <string name="Plasma_Boost_7_Days_">Impulso de Plasma 7 Dias!!!</string>
     <string name="Plasma_Boost_1_Day_">Impulso de Plasma 1 Dia!</string>
     <string name="Plasma_Boost_2_Hours_">Impulso de Plasma 2 Horas.</string>
